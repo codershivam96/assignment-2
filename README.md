@@ -122,6 +122,7 @@ async function checkWeather(city){
 searchBtn.addEventListener('click', ()=>{
     checkWeather(inputBox.value);
 });
+![Image](https://github.com/user-attachments/assets/ef2e0c0a-6575-4478-a517-9a0f4aa5385d)
 
 
     </script>
