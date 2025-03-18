@@ -14,8 +14,7 @@
             <source src="C:\Users\thess\OneDrive\Desktop\classes\assets\24372-342401475_large.mp4" type="video/mp4">
         </video>
         <div class="header">
-            <div class="search-box">
-                <input type="text" placeholder="Enter your location" class="input-box">
+           
 
 
                 <button class="fa-solid fa-magnifying-glass" id="searchBtn"></button>
